@@ -1,7 +1,6 @@
-# Hydroponic_Tower
+# **Seqway.Hydroponic-Tower**
 
 # **READY - ONLINE**
-# **Seqway.Hydroponic-Tower**
 
 :clap: :green_book: :green_book: :green_book: :clap:
 
