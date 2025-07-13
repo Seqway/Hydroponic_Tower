@@ -7,7 +7,8 @@
 
 ## Manuals / Instruction / Guide Books from Seqway
 
-This is my project for putting all neccessary information / Links / Files together to get a working Hydroponic-Tower
+This is my project for putting all neccessary information / Links / Files together to get a working Hydroponic-Tower.
+Please be kindly informed that i only put a documentation together and all especially printed files are from other people.
 
 First Manual (13.07.2025):
 
